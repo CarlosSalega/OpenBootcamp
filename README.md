@@ -1,2 +1,0 @@
-# ejerciciosOpenBootcamp
-OpenBootcamp Ejercicios
